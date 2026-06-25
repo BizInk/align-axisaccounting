@@ -14222,18 +14222,19 @@ body.single-post .top-header-home {
 	margin-right: 21px
 }
 
-.footer .phone {
-	line-height: 65px;
-	font-family: Museo700;
-	font-size: 30px
+.footer .email,
+.footer .phone,
+.footer .footer-text {
+	line-height: 2rem;
+	font-family: Muli-Bold;
+	font-size: 22px;
+	color: #fff;
+	margin-bottom:2px;
 }
 
 .footer .email,
-.footer .footer-text {
-	line-height: 30px;
-	font-family: Muli-Bold;
-	font-size: 22px;
-	color: #fff
+.footer .phone{
+	color:#fad23b;
 }
 
 .footer .form-label {
@@ -14318,6 +14319,9 @@ body.single-post .top-header-home {
 	font-size: 20px;
 	color: #afafaf;
 	margin-bottom: 10px
+}
+.footer .social-icons{
+	margin-top:0;
 }
 /*
 .social-icons .facebook {
