@@ -1,8 +1,8 @@
-=== Align Axis Accounting ===
+=== Align - Axis Accounting ===
 Contributors: Bizink,Jayden Major
 Tags: Bizink, Align, LUCA 1
 Requires at least: 5.6
-Tested up to: 6.9.4
+Tested up to: 7.0
 Stable tag: 1.0
 Requires PHP: 7.4
 
